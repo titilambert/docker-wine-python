@@ -1,0 +1,13 @@
+Redistributable Code
+====================
+The following list is a list of files available with the Microsoft Visual C++ Compiler Package for Python 2.7 for redistribution under the associated license.
+
+Static LIB files
+================
+Subject to the license terms for the software, the .lib files under the following directories may be distributed unmodified when built as part of your application:
+
+	\VC\lib,
+	\VC\lib\amd64,
+	\WinSDK\lib or
+	\WinSDK\lib\x64
+
